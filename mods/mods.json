@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "mods": [
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1893887916",
+        "version": 1583439688,
+        "title": "Research Queue"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1706181611",
+        "version": 1567687702,
+        "title": "Geyser Calculated Average Output Tooltip"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1715248368",
+        "version": 1555801549,
+        "title": "Deconstructable POI Props"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1703611962",
+        "version": 1582425681,
+        "title": "Bigger Building Menu"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1717463209",
+        "version": 1567686205,
+        "title": "Bigger Camera Zoom Out"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1713359495",
+        "version": 1556703197,
+        "title": "Speed Control"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1454392573",
+        "version": 1583542966,
+        "title": "AP 398437 한글 언어팩"
+      },
+      "status": 1,
+      "enabled": false,
+      "crash_count": 0,
+      "reinstall_path": null
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1960996649",
+        "version": 1580934757,
+        "title": "Show Building Ranges"
+      },
+      "status": 1,
+      "enabled": true,
+      "crash_count": 0,
+      "reinstall_path": null
+    }
+  ]
+}
